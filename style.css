@@ -85,3 +85,12 @@ footer {
 .order-product {
     padding: 20px;
 }
+
+.ad {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(224, 188, 141);
+    border: 5px rgb(170, 111, 34) solid;
+    border-radius: 5px;
+    float: right;
+}
